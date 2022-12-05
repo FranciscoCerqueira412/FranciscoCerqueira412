@@ -7,7 +7,7 @@
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
-	<br> <br><!--Never.... -->
+	
 	<section align="left">
 		<h2>Find me all over the web:</h2>
 	<ul>
@@ -17,7 +17,7 @@
         	<li><a href="https://www.facebook.com/francisco.cerqueira.775/" style="text-decoration: none;" target="_blank " rel="external">Facebook</a> 👦🏻</li>
 		</ul>
 	</section>
-	<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
+	<img align="center" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
 	
 	
 	
