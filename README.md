@@ -11,11 +11,9 @@
 	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
 	<h2>Find me all over the web:</h2>
     <ul>
-        <li><img src="imagens/icone-youtube.png" alt="ic-youtube"><a href="https://www.youtube.com/channel/UCBetpQRnf3WGpme5u94gERw" target="_blank" 				rel="external">/cerqueira</a></li>
-        <li><img src="imagens/icone-twitter.png" alt="ic-twitter"><a href="https://twitter.com/Francis88167794" target="_blank" rel="external">/francis88167794</a></li>
-        <li><img src="imagens/icone-instagram.png" alt="ic-insta"><a href="https://www.instagram.com/francisco_cerqueira99" target="_blank" 					rel="external">/francisco_cerqueira99</a></li>
-        <li><img src="imagens/icone-linkedin.png" alt="ic-linkedin"><a href="https://www.linkedin.com/in/francisco-cerqueira-b6a67523a/" target="_blank" 			rel="external">/franciscocerqueira</a></li>
-        <li><img src="imagens/icone-facebook.png" alt="ic-facebook"><a href="https://www.facebook.com/francisco.cerqueira.775/" target="_blank " 				rel="external">/francisco.cerqueira.775</a></li>
-
+        <li><a href="https://twitter.com/Francis88167794"style="text-decoration: none;" target="_blank" rel="external">Twitter</a> 🐦</li>
+        <li><a href="https://www.instagram.com/francisco_cerqueira99" style="text-decoration: none;" target="_blank" rel="external">Instagram</a> 📸</li>
+        <li><a href="https://www.linkedin.com/in/francisco-cerqueira-b6a67523a/" style="text-decoration: none;" target="_blank" rel="external">Linkedin</a> 💻</li>
+        <li><a href="https://www.facebook.com/francisco.cerqueira.775/" style="text-decoration: none;" target="_blank " rel="external">Facebook</a> 👦🏻</li>
     </ul>
 	
