@@ -1,7 +1,10 @@
-<h1>Greatings!!</h1>
-<p>
-	Welcome to my Github Page!!
-</p>
+<dic>
+	<h1>Greatings!!</h1>
+	<p>
+		Welcome to my Github Page!!
+	</p>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCerqueira412&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
 <h1>Programming Languages</h1>
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
