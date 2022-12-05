@@ -23,10 +23,10 @@
 		</ul>
 	</section>
 	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
-	<div align="center">
+	<div align="left">
 	  <a href="https://github.com/FranciscoCerqueira412">
 	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoCerqueira412&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCerqueira412&layout=compact&langs_count=8&theme=dark"/>
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCerqueira412&layout=compact&langs_count=8&theme=dark&count_private=true"/>
 	</div>
 	
 	
