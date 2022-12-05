@@ -1,3 +1,6 @@
+<h1>Greating!!</h1>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
+
 <h1>Programming Languages</h1>
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++">
@@ -18,8 +21,7 @@
 		</ul>
 	</section>
 	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
-	<br>
-	<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
+
 	
 	
 	
