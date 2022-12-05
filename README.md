@@ -23,6 +23,7 @@
 		</ul>
 	</section>
 	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
+	![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 	
 	
 	
