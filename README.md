@@ -7,4 +7,5 @@
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
-	<img align="center" width="100" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 			src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="375" height="281">
+	<br>
+	<img align="left" width="100" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 				src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="375" height="281">
