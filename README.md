@@ -19,7 +19,7 @@
 	</section>
 	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
 	<br>
-	<video class="media-url__media" loop="" autoplay="" muted="" playsinline="" width="100%"><source src="https://i.gifer.com/7fzT.mp4" itemprop="contentUrl" type="video/mp4"></video>
+	<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
 	
 	
 	
