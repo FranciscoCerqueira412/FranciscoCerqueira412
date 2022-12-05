@@ -18,6 +18,7 @@
 		</ul>
 	</section>
 	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="490" height="312">
+	<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/7fzT" width="100%" height="100%" style='position:absolute;top:0;left:0;' 	  frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 	
 	
 	
