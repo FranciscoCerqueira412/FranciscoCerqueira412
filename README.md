@@ -1,8 +1,11 @@
 <h1>Greatings!!</h1>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
-<h2>
+<p>
 	Welcome to my Github Page!!
-</h2>
+</p>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
+<p>
+	Welcome to my Github Page!!
+</p>
 <h1>Programming Languages</h1>
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++">
