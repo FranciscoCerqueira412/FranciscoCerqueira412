@@ -8,5 +8,5 @@
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
 	<br> <br><!--Never.... -->
-	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="550" height="362">
+	<img align="left" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" 					src="https://miro.medium.com/max/640/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="500" height="312">
 	
