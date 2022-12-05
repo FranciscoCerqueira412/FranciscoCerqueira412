@@ -1,5 +1,5 @@
 <h1>Greatings!!</h1>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201" align="center">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201" align="right">
 
 <h1>Programming Languages</h1>
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
