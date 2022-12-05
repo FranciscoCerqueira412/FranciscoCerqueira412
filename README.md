@@ -1,4 +1,4 @@
-    <img align="right" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
+<img align="right" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
     <img align="right" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++">
     <img align="right" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="C#">
     <img align="right" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python">
