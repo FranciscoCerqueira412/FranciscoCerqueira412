@@ -1,1 +1,1 @@
-<img alt="C Programming icon" srcset="https://img.icons8.com/fluency/512/c-programming.png 2x" style="width: 256px; height: 256px;">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://img.icons8.com/ios/512/c-plus-plus-logo.png" width="375" height="375">
