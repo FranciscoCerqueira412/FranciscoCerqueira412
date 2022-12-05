@@ -7,7 +7,6 @@
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
-	
 	<section align="left">
 		<h2>Find me all over the web:</h2>
 	<ul>
