@@ -17,7 +17,8 @@
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"> 
 	<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
 	<section align="left">
-	<br> <br> <!--never....-->
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-src&layout=compact&langs_count=8&theme=dark"/>
+	<br> <br>
 		<h2>Find me all over the web:</h2>
 		<ul>
         	<li><a href="https://twitter.com/Francis88167794"style="text-decoration: none;" target="_blank" rel="external">Twitter</a> 🐦</li>
