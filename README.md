@@ -19,7 +19,7 @@
 		<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
 	</div>
 	<section align="left">
-	<br> <br>
+	<br> <br> <br>
 		<h2>Find me all over the web:</h2>
 		<ul>
         	<li><a href="https://twitter.com/Francis88167794"style="text-decoration: none;" target="_blank" rel="external">Twitter</a> 🐦</li>
