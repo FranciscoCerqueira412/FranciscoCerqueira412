@@ -1,4 +1,15 @@
-  <div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div>
         <h1>Greatings!!</h1>
         <p>
             Welcome to my Github Page!!
@@ -6,7 +17,7 @@
     </div>
     <img style="display: flex; flex-wrap:wrap; justify-content: flex-start; align-items: flex-start; user-select: none; -webkit-user-select: none;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
     <h1>Programming Languages</h1>
-        <div class="tec" style="display: flex;">
+        <div style="display: flex;">
             <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
             <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++">
             <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="C#">
@@ -16,8 +27,8 @@
             <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"> 
             <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"> 
         </div>
-        <section align="left">
-        <br> <br> <br>
+        <section>
+        <br>
             <h2>Find me all over the web:</h2>
             <ul>
                 <li><a href="https://twitter.com/Francis88167794" style="text-decoration: none;" target="_blank" rel="external">Twitter</a> 🐦</li>
@@ -27,6 +38,7 @@
             </ul>
         </section>
         <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/322bb8b77f187188642ae8eb8eff4ba7c7ccc321/github-contribution-grid-snake.svg">
-	
-	
-	
+        
+
+</body>
+</html>
