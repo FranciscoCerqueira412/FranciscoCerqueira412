@@ -1,4 +1,4 @@
-<dic>
+<div>
 	<h1>Greatings!!</h1>
 	<p>
 		Welcome to my Github Page!!
@@ -8,7 +8,7 @@
 </div>
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" width="375" height="201">
 <h1>Programming Languages</h1>
-	<div style="display: flex;>
+	<div style="display: flex; flex-wrap:wrap;">
 		<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C">
 		<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++">
 		<img align="left" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="C#">
